@@ -1,6 +1,9 @@
 
 # Google Play Store Real-Time Dataset Analysis
 
+![gpss](https://github.com/user-attachments/assets/0ec5ef98-12ad-4594-b651-a85bd00b460b)
+
+
 Conducted an extensive analysis of the Google Play Store Real-Time dataset from Kaggle, executing a comprehensive suite of different analytical techniques. Compiled a comprehensive study summarizing insights and actionable recommendations for stakeholders.
 
 Dataset Link: [Google Play Store Real-Time Dataset on Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
