@@ -1,5 +1,8 @@
 # Ecommerce Purchases Analysis
 
+![az](https://github.com/user-attachments/assets/96597587-58ea-417f-b8f9-65010862d0f6)
+
+
 ## Dataset
 - **Source**: [Kaggle - Ecommerce Purchases Dataset](https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases/data)
 - **Description**: This dataset contains ecommerce purchase data from Amazon, including customer information, purchase details, and payment methods.
