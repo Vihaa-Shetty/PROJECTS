@@ -1,5 +1,5 @@
 
-# Google Play Store Real-Time Dataset Analysis
+# Google Play Store Real-Time Dataset Analysis 📱
 
 ![gpss](https://github.com/user-attachments/assets/0ec5ef98-12ad-4594-b651-a85bd00b460b)
 
