@@ -1,4 +1,4 @@
-# Ecommerce Purchases Analysis
+# Ecommerce Purchases Analysis🛍️
 
 ![az](https://github.com/user-attachments/assets/96597587-58ea-417f-b8f9-65010862d0f6)
 
