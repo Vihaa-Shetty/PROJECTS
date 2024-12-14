@@ -5,5 +5,5 @@
 - Whether it's through SQL queries, Excel functions, or advanced visualization techniques, these projects reflect my skill set and the value I can bring as a Data Analyst.
 
 
-### Feel free to explore the individual projects and reach out for any collaboration or inquiries!😊
+#### Feel free to explore the individual projects and reach out for any collaboration or inquiries!😊
 
