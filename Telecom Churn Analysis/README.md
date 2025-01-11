@@ -26,3 +26,4 @@ This analysis aims to identify key factors contributing to customer churn in a t
 ### Tools & Technologies:
 - Data Analytics
 - Data Visualization
+- Pandas, Numpy, Matplotlib, Seaborn
