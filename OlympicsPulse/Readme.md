@@ -1,10 +1,11 @@
-# Olympics Pulse 🏅
+# Olympics Pulse [Data Meets Glory]! 🏅
 
 ![HomePage](https://github.com/user-attachments/assets/17f5d5e0-42c4-4c09-baef-8d86e9c97c2a)
 
 Conducted an in-depth analysis of the Paris Olympics 2024 dataset to provide actionable insights, trends, and recommendations. Created a comprehensive interactive dashboard and automated real-time updates for better understanding and decision-making.
 
-Dataset Link: [Paris Olympics 2024 Dataset on Kaggle](https://www.kaggle.com/datasets)
+- **Project Link** : https://drive.google.com/file/d/1OLQIB6wRfvyc52dlShBYCzHIWIWbgDN_/view?usp=sharing
+- **Dataset Link** : [Paris Olympics 2024 Dataset on Kaggle](https://www.kaggle.com/datasets)
 
 ## Key Insights:
 - **Medal Analysis**: Breakdown of gold, silver, and bronze medals won by different countries.
