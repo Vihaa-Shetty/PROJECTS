@@ -1,10 +1,10 @@
 # FinTrack: Performance Dashboard [Finance Meets Precision] 💼📊
 
-"C:\Users\My PC\Desktop\VihaaShetty\Projects\FAINTRAC\0_5Z1TVnRBGu5ao5-j.gif"
+![premium_photo-1681487769650-a0c3fbaed85a](https://github.com/user-attachments/assets/cd17d018-220d-4a6d-8193-ebb01e68ae95)
 
 Conducted a comprehensive analysis of employee and sector performance metrics to track **actual vs target** values across various KPIs. Created a powerful, interactive finance dashboard to enable real-time monitoring, decision-making, and variance analysis for improved business performance.
 
-- **Project Link** : [FinTrack Dashboard]([https://example-link.com](https://drive.google.com/file/d/1TfHXbfiZAYp397J7V-nPkyRumrTtUH6K/view?usp=sharing))
+- **Project Link** : https://drive.google.com/file/d/1TfHXbfiZAYp397J7V-nPkyRumrTtUH6K/view?usp=sharing
 
 
 ## Key Insights:
