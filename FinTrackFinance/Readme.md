@@ -27,5 +27,5 @@ Conducted a comprehensive analysis of employee and sector performance metrics to
 ## Tools Used:
 - **Power BI**: Interactive dashboard creation, advanced visualizations, dynamic filtering, real-time updates.
 - **Excel**: Data cleaning, preprocessing, and analysis using Pivot Tables and charts.
-- **Figma**: UI/UX design for visually engaging, user-friendly dashboards.
+- **Figma**: UI/UX design for visually engaging, user-friendly dashboards..
 
