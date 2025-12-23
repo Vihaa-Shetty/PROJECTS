@@ -10,7 +10,7 @@ This analysis aims to identify key factors contributing to customer churn in a t
 - Higher churn rate among senior citizens and customers with shorter tenures.
 - Month-to-month contracts and lack of value-added services drive higher churn.
 - Fiber Optic internet users and Electronic Check payments have higher churn.
-
+- 
 ## Recommendations:
 - Implement loyalty programs for month-to-month customers.
 - Target senior citizens with personalized offers.
