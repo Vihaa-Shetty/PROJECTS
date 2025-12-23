@@ -5,7 +5,6 @@
 This project presents an in-depth Exploratory Data Analysis (EDA) of the Bangalore Traffic Dataset sourced from Kaggle. The goal is to understand the traffic behavior of one of India’s most congested cities by analyzing key parameters such as traffic volume, congestion levels, road capacity, environmental impact, incident reports, and travel speed across major road networks. Through systematic data cleaning, statistical exploration, visual analytics, and insight extraction, this study uncovers patterns that highlight the structural causes of congestion in Bengaluru. The analysis further provides actionable, data-driven recommendations that can support smarter traffic management, improved public transport planning, and sustainable urban development.
 
 
-
 🗂️ 1. 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
 
 	• Rows: ~9383
@@ -150,5 +149,6 @@ This project presents an in-depth Exploratory Data Analysis (EDA) of the Bangalo
 		• Build flyovers/underpasses based on data
 		• Introduce congestion pricing in central areas
 		• Enables long-term, sustainable urban mobility
+
 
 
