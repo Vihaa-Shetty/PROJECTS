@@ -1,0 +1,4 @@
+- Ingested raw HR Attrition data from GitHub into Microsoft Fabric Dataflow Gen2, performing data cleansing, transformation, conditional column creation, and loading curated data into a Fabric Lakehouse (Delta Table).
+- Developed a Fabric Semantic Model on the curated Delta data, defining analytical structures and relationships to support self-service reporting and business analysis.
+- Built an interactive Power BI HR Attrition Dashboard, performing exploratory analysis and creating KPIs, measures, and visualizations to identify key attrition drivers, employee trends, and workforce patterns.
+- Published the report back to Microsoft Fabric and strengthened data governance and security by implementing column-level security on sensitive Monthly Income data, restricting unauthorized access.
